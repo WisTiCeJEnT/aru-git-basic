@@ -15,4 +15,14 @@
 - [ ] Module
 
 ### Practice
-1. ...
+1. Hello to you
+> รับข้อมูลชื่อผู้ใช้ และทักทายผู้ใช้กลับด้วยชื่อนั้น
+
+Input:
+```
+Nine
+```
+Output:
+```
+Hello Nine
+```
